@@ -33,5 +33,5 @@ jobs:
       # Run tests
       - name: Run Tests
         run: mvn -B test
-        working-directory: C:\Users\manug\Downloads\labfaker\labfaker\pom.xml
+        working-directory: labfaker
 
